@@ -56,6 +56,9 @@ Una vez creado el fichero m3u, por ejemplo canales.m3u, lo guardaremos en una ub
 
 Vamos a la configuración y hacemos clic sobre "Añadir configuración del Add-on" y ponemos estos valores:
 
+En la opción URL a la lista m3u yo he puesto una URL a mi servidor web: http://127.0.0.1:8085/canales.m3u 
+Desconozco si se puede poner una ruta local, [aquí](https://github.com/tonika1/tvheadend-acestream-docker/blob/main/README.md#configurar-un-servidor-web-para-dejar-nuestros-ficheros-m3u) tienes los pasos para crear un contenedor con un servidor web
+
 ![Captura de pantalla_2024-05-24_20-40-49](https://github.com/tonika1/kodi-acestream/assets/36047512/583f5ae6-72c8-4f38-8e9c-faa789f876f9)
 
 ![Captura de pantalla_2024-05-24_20-41-18](https://github.com/tonika1/kodi-acestream/assets/36047512/91696c5d-ec65-4362-a924-d2bc2ad68cec)
