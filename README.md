@@ -1,5 +1,5 @@
 # kodi-acestream
-Conexión de Kopi con acestream
+Conexión de Kodi con acestream
 
 ## Consideraciones previas
 
