@@ -58,19 +58,19 @@ Vamos a la configuración y hacemos clic sobre "Añadir configuración del Add-o
 
 ![Captura de pantalla_2024-05-24_20-40-49](https://github.com/tonika1/kodi-acestream/assets/36047512/583f5ae6-72c8-4f38-8e9c-faa789f876f9)
 
-
-
 ![Captura de pantalla_2024-05-24_20-41-18](https://github.com/tonika1/kodi-acestream/assets/36047512/91696c5d-ec65-4362-a924-d2bc2ad68cec)
 
 ![Captura de pantalla_2024-05-24_20-41-53](https://github.com/tonika1/kodi-acestream/assets/36047512/8a91a74e-cb60-403f-8a22-e5e4ae16d846)
-
-![Captura de pantalla_2024-05-24_20-42-07](https://github.com/tonika1/kodi-acestream/assets/36047512/bc282b59-81fd-44dd-83e4-d3e426032b8b)
 
 La URL del fichero XML que yo uso es: 
 
 ```bash
 https://raw.githubusercontent.com/davidmuma/EPG_dobleM/master/guiafanart_color.xml.gz
 ```
+
+![Captura de pantalla_2024-05-24_20-42-07](https://github.com/tonika1/kodi-acestream/assets/36047512/bc282b59-81fd-44dd-83e4-d3e426032b8b)
+
+
 
 ![Captura de pantalla_2024-05-24_20-42-24](https://github.com/tonika1/kodi-acestream/assets/36047512/9f30ea0d-b6d7-4073-8e96-91a700074885)
 
