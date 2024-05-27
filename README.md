@@ -7,15 +7,15 @@ Aquí no vas a encontrar enlaces acestream, sólo como conectar contenedores ace
 
 No vamos a poder grabar las emisiones, para poder grabar hay que usar la guía [tvheadend-acestream-docker](https://github.com/tonika1/tvheadend-acestream-docker/blob/main/README.md)
 
-Debemos tener instalado la última versión de [acestream](https://docs.acestream.net/products/)
+Debemos tener instalado la última versión de [acestream](https://docs.acestream.net/products/) 
 
-Debemos teber instalado [kodi](https://kodi.tv/download/)
+Debemos tener instalado [kodi](https://kodi.tv/download/)
 
 Debemos tener instalado el addon IPTV Simple Client que es un addon que puedes instalar desde los repositorios de kodi, está dentro de la sección Clientes PVR. Después nos meteremos con su configuración.
 
 Debemos tener instalado el [addon Horus](https://mundokodi.com/addon-horus-en-kodi/)
 
-Configura el addon de Horus para utilizar un reproductor externo ya que con algunos sistemas operativos (android seguro) si no repoduces el video con el ACE Player se para la reproducción a los 10 minutos:
+Configura el addon de Horus para utilizar un reproductor externo ya que con algunos sistemas operativos (android seguro) si no reproduces el video con el ACE Player se para la reproducción a los 10 minutos:
 
 ![Acestream_2-1024x549](https://github.com/tonika1/kodi-acestream/assets/36047512/8e8b4e08-e8db-448b-a11f-fa2cce84c870)
 
